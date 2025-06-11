@@ -9,7 +9,7 @@ This is a small test application to compare the performance of `MongoRepository.
 > faster than
 > `MongoRepository.saveAll()`.
 
-> [!IDEA]
+> [!TIP]
 > Check the container's CPU usage during the tests. You'll notice a high usage during the `MongoRepository.saveAll()`
 > test execution
 
